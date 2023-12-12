@@ -12,14 +12,14 @@
 - Automated Absence Monitoring
 
 ## Design
-<video width="540" height="300">
+<video width="540" height="300" controls>
   <source src="img/collapse video reverse.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <p float="left">
-  <img src="img/HUSA flyers_1.jpg" width="375" />
-  <img src="img/HUSA flyers back.jpg" width="375" /> 
+  <img src="img/HUSA flyers_1.jpg" width="400" />
+  <img src="img/HUSA flyers back.jpg" width="400" /> 
 </p>
 
 ## Demo
