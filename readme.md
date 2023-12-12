@@ -1,4 +1,5 @@
 # Have U Signed Attendance?
+![logo](img/logo.png)
 "HUSA: Have U Signed Attendance?" revolutionizes attendance monitoring in education with its AI-driven solutions, enhancing efficiency in attendance management for institutions and providing students with a unified system for tracking attendance and class schedules.
 
 ## Key Features
