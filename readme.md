@@ -12,8 +12,9 @@
 - Automated Absence Monitoring
 
 ## Design
-<!-- ![Video](img/collapse%20video%20reverse.mp4) -->
-<video src='https://youtu.be/ztkiXklRXBk' width=800/>
+<video src='https://youtu.be/ztkiXklRXBk
+' width=800/>
+
 
 <p float="left">
   <img src="img/HUSA flyers_1.jpg" width="400" />
