@@ -16,12 +16,12 @@
 https://github.com/xian-cong/HUSA/assets/22144223/7abebe40-0ab5-4895-9930-0932fb342bdf
 
 <p float="left">
-  <img src="img/HUSA flyers_1.jpg" width="400" />
-  <img src="img/HUSA flyers back.jpg" width="400" /> 
+  <img src="img/HUSA flyers_1.jpg" width="450" />
+  <img src="img/HUSA flyers back.jpg" width="450" /> 
 </p>
 
 ## Demo
-
+https://github.com/xian-cong/HUSA/assets/22144223/ebf5adb4-9249-4f8d-a3ed-1b55cbb49cbc
 
 ## Project Proposal
 [Project Proposal]("proposal/HUSA%20Proposal.pdf")
