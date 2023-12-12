@@ -16,8 +16,8 @@
 https://github.com/xian-cong/HUSA/assets/22144223/7abebe40-0ab5-4895-9930-0932fb342bdf
 
 <p float="left">
-  <img src="img/HUSA flyers_1.jpg" width="450" />
-  <img src="img/HUSA flyers back.jpg" width="450" /> 
+  <img src="img/HUSA flyers_1.jpg" width="430" />
+  <img src="img/HUSA flyers back.jpg" width="430" /> 
 </p>
 
 ## Demo
