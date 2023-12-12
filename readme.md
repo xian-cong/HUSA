@@ -12,10 +12,7 @@
 - Automated Absence Monitoring
 
 ## Design
-<video src='https://youtu.be/ztkiXklRXBk
-' width=800/>
-
-
+https://github.com/xian-cong/HUSA/assets/22144223/7abebe40-0ab5-4895-9930-0932fb342bdf
 
 <p float="left">
   <img src="img/HUSA flyers_1.jpg" width="400" />
